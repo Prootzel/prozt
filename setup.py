@@ -4,7 +4,7 @@ with open("README.md") as f:
     long_description = f.read()
 
 name = "prozt"
-version = "0.0.1"
+version = "0.0.2"
 author = "Prootzel"
 
 short_description = "better print command"
